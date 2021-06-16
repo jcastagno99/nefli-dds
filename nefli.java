@@ -45,7 +45,7 @@ Class Pelicula{
     int minutoActual = 0;
     Reproductor miReproductor;
 
-    void continuarViendoPelicula(Pelicula unaPelicula){
+    void continuarViendoPelicula(){
         miReproductor.play(idVideo,minutiActual);
     }
 
