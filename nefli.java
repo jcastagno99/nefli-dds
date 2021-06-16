@@ -11,6 +11,9 @@ el StopListener podría buscar la película mediante su ID y decirle: "Tu ultimo
 y setearlo en la película para que luego la reproducción (con PlayListener) use dicho minuto, en la inicialización 
 el minutoActual = 0;
 
+tambien queda pendiente el : ¿Como el usuario obtiene la película? -> Pienso que cada usuario podria tener una lista de películas y que mediante UI se
+seleccióne una, o mismamente desde un repositorio de películasDisponibles que tenga la App, esto solo lo comento porque el enunciado no me aclara
+
 */
 
 Class Usuario {
